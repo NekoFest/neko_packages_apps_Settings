@@ -21,4 +21,6 @@
     <!-- CLO tag version in About phone -->
     <string name="clo_revision_tag">CLO revision</string>
 
+    <!-- PLatform version in About phone -->
+    <string name="platform_version">Platform version</string>
 </resources>
