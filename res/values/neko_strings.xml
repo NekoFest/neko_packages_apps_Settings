@@ -18,4 +18,7 @@
     <!-- NekoFest version -->
     <string name="neko_version_title">NekoFest version</string>
 
+    <!-- CLO tag version in About phone -->
+    <string name="clo_revision_tag">CLO revision</string>
+
 </resources>
